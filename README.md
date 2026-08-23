@@ -221,18 +221,7 @@ This project was developed to understand and implement:
 -   Neural-network-based action selection
 -   Training an autonomous game-playing agent
 
-## 🚀 Future Improvements
 
-Possible improvements include:
-
--   Add a target network for more stable DQN training.
--   Add model checkpoint saving and loading.
--   Visualize training performance using TensorBoard.
--   Plot rewards and scores across episodes.
--   Tune hyperparameters automatically.
--   Compare DQN with Double DQN or Dueling DQN.
--   Add evaluation mode for the trained agent.
--   Improve the state representation and reward function.
 
 ## 👨‍💻 Author
 
